@@ -6,7 +6,7 @@
   "license": "MIT",
   "homepage": "https://github.com/zenoamaro/react-quill",
   "bugs": "https://github.com/zenoamaro/react-quill/issues",
-  "repository": "https://github.com/zenoamaro/react-quill.git",
+  "repository": "https://github.com/casamia918/react-quill.git",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
